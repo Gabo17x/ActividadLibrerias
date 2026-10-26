@@ -1,0 +1,6 @@
+﻿producto,precio,stock,valor_inventario,reponer
+Camisa,45000,20,900000,False
+Gorra,30000,5,150000,True
+Pantalón,89000,12,1068000,False
+Medias,8000,40,320000,False
+Zapatos,150000,3,450000,True
